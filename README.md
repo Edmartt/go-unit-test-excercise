@@ -1,4 +1,4 @@
-#UNIT TEST WITH GO
+# UNIT TEST WITH GO
 
 A simple project with an aritmethic operation (sum) for showing the power of unit testing in Go.
 
